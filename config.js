@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["919746319042"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -47,18 +47,18 @@ global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 global.linkig = 'https://www.instagram.com/neer_j_  '
 global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
-global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.git = 'https://github.com/Neelima-snowwhite'
+global.web1 = ''
+global.url = 'https://chat.whatsapp.com/IeDSjbahzdBLbLJWjKu88F'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
-global.name = 'Millie MULTI-DEVICE'
+global.thumburl = process.env.IMAGE || 'https://telegra.ph/file/dd1e45eb1d8d921913fd8.jpg'
+global.packname = process.env.PACKNAME ||'Neeli-a1'
+global.author = process.env.AUTHOR ||'Neeli-a2'
+global.name = 'Neeli MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| 'Neeli-2.0'
+global.owner_name = process.env.OWNER_NAME || 'Neeli-x0'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'Ganavasantham'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
@@ -79,7 +79,7 @@ global.dtu = 'BOT HELP GROUP'
 
 
 
-global.version = '2.0.1(ʙᴇᴛᴀ)'
+global.version = '2.0.1(Neeli)'
 
 global.multiplier = 69 // The higher, The harder levelup
 global.nolink = 'No URL Found'
